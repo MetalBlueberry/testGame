@@ -1,0 +1,5 @@
+*.pyc
+*.tar.gz
+*.blend1
+*.blend~1
+certs/*
