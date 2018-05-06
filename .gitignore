@@ -3,3 +3,4 @@
 *.blend1
 *.blend~1
 certs/*
+*.db
