@@ -4,3 +4,4 @@
 *.blend~1
 certs/*
 *.db
+bin/
